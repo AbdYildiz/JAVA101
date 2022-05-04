@@ -1,6 +1,5 @@
 package JAVA101.Circle;
 
-import java.security.cert.CertPath;
 import java.util.Scanner;
 
 public class Circle{

@@ -1,3 +1,5 @@
+package JAVA101.UcgeninAlani;
+
 import java.util.Scanner;
 
 class Alan{

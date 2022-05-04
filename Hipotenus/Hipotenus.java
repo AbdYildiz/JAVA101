@@ -1,3 +1,5 @@
+package JAVA101.Hipotenus;
+
 import java.util.Scanner;
 
 class Hipotenus {

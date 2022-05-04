@@ -1,3 +1,5 @@
+package JAVA101.Taksimetre;
+
 import java.util.Scanner;
 
 class Hesapla{

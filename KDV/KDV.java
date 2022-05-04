@@ -1,3 +1,5 @@
+package JAVA101.KDV;
+
 import java.util.Scanner;
 
 class KDV {
