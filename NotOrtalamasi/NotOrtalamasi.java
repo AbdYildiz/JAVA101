@@ -1,4 +1,4 @@
-package JAVA101;
+package JAVA101.NotOrtalamasi;
 import java.util.Scanner;
 
 class NotOrtalmasi{
