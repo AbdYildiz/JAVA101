@@ -20,5 +20,6 @@ public class LeapYear {
         }
         
         scan.close();
+        
     }
 }
