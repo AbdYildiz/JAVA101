@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Harmonik {
     public static void main(String[] args) {
-        /**Java ile girilen sayının harmonik serisini bulan program yazacağız. */
+        /**Java ile girilen sayının harmonik serisini bulan program yazacağız. 
+         * 1 + 1/2 + 1/3 + ..... + 1/n 
+        */
         Scanner scan = new Scanner(System.in);
         System.out.print("N sayisini giriniz:");
         int n = scan.nextInt();
