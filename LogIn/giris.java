@@ -13,7 +13,7 @@ public class giris {
          * "Şifre oluşturulamadı, lütfen başka şifre giriniz." 
          * sorun yoksa "Şifre oluşturuldu" yazan programı yazınız. */
         System.out.print("Kullanici adini giriniz : ");
-        String name = scan.nextLine();
+        //String name = scan.nextLine();
         System.out.print("Sifrenizi giriniz : ");
         String password = scan.nextLine();
         String DefaultPassword = "jghlemni";
