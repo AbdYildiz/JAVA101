@@ -4,6 +4,7 @@ public class Recursive {
     public static void main(String[] args) {
         /**Java'da recursive metotlar ile fibonacci serisi bulan program yapıyoruz. */
         int basamak = 9;
+        
         for (int i = 1; i < basamak; i++) {
             System.out.println(Fibonacci(i));
         }       
